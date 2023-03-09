@@ -1,7 +1,12 @@
 第五次提交
 dev新增
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> dev
+=======
+Creating a new branch is quick AND simple.
+dev deal bug 101
+>>>>>>> 76023e2 (dev 处理bug101)
